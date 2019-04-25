@@ -1,2 +1,2 @@
-# gnclient-java
-the java client for gonode
+# janet
+a java net framework based on netty (experimental project ^^)
